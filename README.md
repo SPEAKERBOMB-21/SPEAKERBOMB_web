@@ -6,7 +6,7 @@ SPEAKERBOMB is a Python-based Streamlit e-commerce dashboard. It features a dyna
 
 Install all dependencies by running the following command:
 ```
-pip install requirements.txt
+pip install streamlit
 ```
 
 Run this command in Terminal to launch the app in your browser:
