@@ -57,7 +57,7 @@ with st.sidebar:
         f_price_max = price_options[p_label]
         
 # 4. APP HEADER
-st.title("SPEAKERBOMB")
+st.title("SPEAKERBOMB®")
 st.write("---")
 st.header("What is SPEAKERBOMB?")
 st.write("SPEAKERBOMB is a leading audio brand known for its high-quality speakers and innovative sound technology. We offer a wide range of products designed to meet the needs of music lovers, audiophiles, and home theater enthusiasts.")
